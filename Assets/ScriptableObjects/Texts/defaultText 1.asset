@@ -12,3 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a6ea58d82c46e940b37f7c1c65ab77b, type: 3}
   m_Name: defaultText 1
   m_EditorClassIdentifier: 
+  speakerName: What
+  lines:
+  - 
+  lineSpeed: 0
+  color: {r: 1, g: 1, b: 1, a: 1}
