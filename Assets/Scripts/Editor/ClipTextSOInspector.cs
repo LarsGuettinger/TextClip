@@ -15,7 +15,7 @@ namespace Editor
     public class ClipTextSOInspector : OdinMenuEditorWindow
     {
         [MenuItem("Custom/ClipTextInspector")]
-        private static void ShowWindow()
+        public static void ShowWindow()
         {
             var window = GetWindow<ClipTextSOInspector>();
             window.titleContent = new GUIContent("Clip Text Inspector");

@@ -1,5 +1,6 @@
 ﻿using System;
 using Sirenix.OdinInspector;
+using UnityEditor;
 using UnityEngine;
 
 namespace Timeline
@@ -14,6 +15,8 @@ namespace Timeline
         public float lineSpeed = 0;
 
         public Color color = Color.white;
+
+        public bool HasFilledLine => lines.Length > 0 ? true : false;
 
         private void OnValidate()
         {
