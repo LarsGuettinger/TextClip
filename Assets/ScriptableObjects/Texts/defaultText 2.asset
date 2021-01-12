@@ -15,7 +15,7 @@ MonoBehaviour:
   speakerName: What
   lines:
   - Some Example Text
-  - Bit more Text
+  - Bit more Textsdnaksfnk
   - Lol What?
   lineSpeed: 0
   color: {r: 1, g: 1, b: 1, a: 1}

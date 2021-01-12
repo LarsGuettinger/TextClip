@@ -308,8 +308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parentTransform: {fileID: 762832855}
-  speakerSubTitel: {fileID: 2050947170068828261, guid: 52e754024ed98e848a7058fdca261358,
-    type: 3}
+  speakerSubTitle: {fileID: 0}
   poolCount: 10
 --- !u!1 &201923318
 GameObject:
